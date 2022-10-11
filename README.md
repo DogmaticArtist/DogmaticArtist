@@ -2,7 +2,7 @@
 - 👀 I’m interested in R, SQL, Machine Learning.
 - 🌱 I’m currently learning how to use Machine learning algorithms for Acturial science.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me : arfan62@gmail.com
+- 📫 How to reach me : 
 
 <!---
 DogmaticArtist/DogmaticArtist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
