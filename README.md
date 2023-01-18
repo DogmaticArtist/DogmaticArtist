@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @DogmaticArtist
-- 👀 I’m interested in R, SQL, Machine Learning.
-- 🌱 I’m currently learning how to use Machine learning algorithms for Acturial science.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me : 
+- 👀 I’m interested in Java, R, SQL, Machine Learning and software engineering in general
+- 🌱 I’m currently studying for an MSC Computer Science degree at Birkbeck Univeristy 
+- 📫 Accomplishments : Azure Data Engineering bootcamp completed, 2 Acturial exams with R programming and a Post Graduate degree in Applied Data Science    with Birkbeck
+- Goals: to be more active on Github in 2023 !!!
 
-<!---
-DogmaticArtist/DogmaticArtist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
