@@ -1,0 +1,51 @@
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class GraderTest {
+
+    @Test
+    public void fiftyNineShouldReturnF() {
+        var grader = new Grader();
+        assertEquals('F', grader.determineLetterGrade(59));
+}
+
+    @Test
+    public void sixtyNineShouldReturnD() {
+        var grader = new Grader();
+        assertEquals('D', grader.determineLetterGrade(69));
+    }
+
+    @Test
+    public void seventyNineShouldReturnC() {
+        var grader = new Grader();
+        assertEquals('C', grader.determineLetterGrade(79));
+    }
+
+    @Test
+    public void eightyNineShouldReturnF() {
+        var grader = new Grader();
+        assertEquals('B', grader.determineLetterGrade(89));
+    }
+
+    @Test
+    public void ninetyNineShouldReturnF() {
+        var grader = new Grader();
+        assertEquals('A', grader.determineLetterGrade(99));
+    }
+
+    @Test
+    public void eightyShouldReturnF() {
+        var grader = new Grader();
+        assertEquals('B', grader.determineLetterGrade(80));
+    }
+
+    @Test
+    public void negativeOneshouldReturnIllegalArgExcep() {
+        var grader = new Grader();
+        assertThrows(IllegalArgumentException.class,
+                () -> {
+            grader.determineLetterGrade(-1);
+                });
+    }
+
